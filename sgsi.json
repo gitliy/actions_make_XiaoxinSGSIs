@@ -1,8 +1,8 @@
 {
-  "rom_url": "https://download-xys.meizu.com/firmware/Flyme/note8/8.1.5.4/cn/20220512185901/94b763bd/update.zip",
+  "rom_url": ""https://download-xys.meizu.com/Firmware/Flyme/note8/8.1.5.4/cn/20220512185901/94b763bd/update.zip,
   "rom_name": "update.zip",
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
-  "rom_url": "https://download-xys.meizu.com/firmware/Flyme/note8/8.1.5.4/cn/20220512185901/94b763bd/update.zip",
+  "rom_url": "https://download-xys.meizu.com/Firmware/Flyme/note8/8.1.5.4/cn/20220512185901/94b763bd/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "note8.zip",
   "make_miui": false,
